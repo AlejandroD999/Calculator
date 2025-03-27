@@ -53,7 +53,7 @@ main.geometry("300x400")
 main.resizable(0,0)
 main.title("Calculator")
 main.configure(bg="grey")
-main.iconbitmap(r'C:\Users\aleja\OneDrive\Escritorio\Vault\versions\Calculator\Calculator_Icon.ico')
+main.iconbitmap(r'C:\Users\aleja\OneDrive\Escritorio\Vault\Repositories\Calculator\Calculator_Icon.ico')
 
 input_screen = tk.Label(
     main,
