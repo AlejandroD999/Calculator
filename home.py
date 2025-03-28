@@ -47,7 +47,6 @@ def evaluate_expression():
         output_screen.configure(text="Error")
 
 
-
 main = tk.Tk()
 main.geometry("300x400")
 main.resizable(0,0)
